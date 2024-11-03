@@ -1,0 +1,14 @@
+livros_id,titulo,ano_publicacao,isbn,autor_id,editora_id
+1,"A Culpa é das Estrelas",2012,978-85-8057-346-6,1,1
+2,"Harry Potter e a Pedra Filosofal",1997,9788532511010,2,2
+3,"O Senhor dos Anéis: A Sociedade do Anel",1954,9788533603149,3,3
+4,"The Catcher in the Rye",1951,9780316769488,4,4
+5,1984,1949,978-85-221-0616-9,5,5
+6,"Percy Jackson e o Ladrão de Raios",2005,9788598078355,6,1
+7,"Grande Sertão: Veredas",1956,978-85-209-2325-1,7,6
+8,"Memórias Póstumas de Brás Cubas",1881,9788535910663,8,7
+9,"Vidas Secas",1938,9788572326972,9,8
+10,"O Alienista",1882,9788572327429,8,9
+11,"O Cortiço",1890,9788579027048,10,10
+12,"Dom Casmurro",1899,9788583862093,8,10
+13,Macunaíma,1928,9788503012302,11,8
